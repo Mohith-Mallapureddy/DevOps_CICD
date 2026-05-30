@@ -1,0 +1,13 @@
+Activity 2
+
+1. go to -https://github.com/NeeharikaRN/DevOps_CICD.git
+
+2. click on fork>click create fork
+
+3. go to actions>enable which shows up
+
+4. go to settings>actions>workflow permissions>select Read and write permissions and tick Allow GitHub Actions to create and approve pull requests and save
+
+5. in settings>pages>branch - main, select /docs, save
+
+6. now check actions, workflow runs>after completion open the workflow>click the link in the deploy tab in the graph
